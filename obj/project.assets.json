@@ -6071,25 +6071,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\whaly\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Unifenas\\Atividades integradoras\\2020_1\\AI5\\Atividades_Integradoras_5\\CaoLendario.csproj",
+      "projectUniqueName": "C:\\Users\\whaly\\Documents\\Faculdade\\5º Periodo\\Atividade Integradora V\\Atividades_Integradoras_5\\CaoLendario.csproj",
       "projectName": "CaoLendario",
-      "projectPath": "C:\\Unifenas\\Atividades integradoras\\2020_1\\AI5\\Atividades_Integradoras_5\\CaoLendario.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Unifenas\\Atividades integradoras\\2020_1\\AI5\\Atividades_Integradoras_5\\obj\\",
+      "projectPath": "C:\\Users\\whaly\\Documents\\Faculdade\\5º Periodo\\Atividade Integradora V\\Atividades_Integradoras_5\\CaoLendario.csproj",
+      "packagesPath": "C:\\Users\\whaly\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\whaly\\Documents\\Faculdade\\5º Periodo\\Atividade Integradora V\\Atividades_Integradoras_5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\whaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
